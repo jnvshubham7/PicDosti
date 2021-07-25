@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Post_Activity">
-
+    tools:context=".PostActivity">
     <android.support.design.widget.AppBarLayout
         android:id="@+id/bar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="?android:attr/windowBackground">
-
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="?android:attr/windowBackground">
-
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
-
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:src="@drawable/ic_close"
                     android:id="@+id/close"
                     android:layout_alignParentLeft="true"
-                    android:layout_alignParentStart="true"
-                    android:contentDescription="TODO"
-                    tools:ignore="ContentDescription,HardcodedText" />
-
+                    android:layout_alignParentStart="true" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -42,10 +36,7 @@
                     android:layout_centerVertical="true"
                     android:textColor="@color/colorPrimary"
                     android:layout_alignParentRight="true"
-                    android:layout_alignParentEnd="true"
-                    android:layout_marginEnd="10dp"
-                    tools:ignore="HardcodedText" />
-
+                    android:layout_alignParentEnd="true" />
             </RelativeLayout>
 
         </android.support.v7.widget.Toolbar>
@@ -63,9 +54,8 @@
             android:scaleType="centerInside"
             android:layout_gravity="center"
             android:src="@mipmap/ic_launcher"
-            android:id="@+id/image_added"
-            android:contentDescription="TODO"
-            tools:ignore="ContentDescription" />
+            android:id="@+id/image_added"/>
+
 
         <EditText
             android:layout_width="match_parent"
@@ -73,8 +63,7 @@
             android:layout_marginTop="15dp"
             android:hint="Description"
             android:id="@+id/description"
-            android:maxLines="5"
-            android:autofillHints="" />
+            android:maxLines="5"/>
 
     </LinearLayout>
 
