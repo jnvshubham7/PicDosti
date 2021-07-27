@@ -4,7 +4,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId 'com.koddev.instagram'
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -34,6 +34,7 @@ dependencies {
     implementation 'de.hdodenhof:circleimageview:2.2.0'
     implementation 'com.theartofdev.edmodo:android-image-cropper:2.7.+'
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
+    implementation 'com.jaeger.statusbarutil:library:1.4.0'
 
     implementation 'com.github.shts:StoriesProgressView:3.0.0'
     implementation 'com.github.pwittchen:swipe-rx2:0.3.0'

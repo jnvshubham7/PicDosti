@@ -28,7 +28,7 @@
                     android:layout_alignParentStart="true"
                     android:layout_alignParentLeft="true"
                     android:layout_marginLeft="-60dp"
-                    android:src="@drawable/logo"
+                    android:src="@drawable/undraw_taking_selfie_lbo7"
                     android:layout_marginStart="-60dp" />
 
                 <ImageView

@@ -12,26 +12,27 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.koddev.instagram.Start_Activity">
+        <activity android:name=".Start_Activity"></activity>
+        <activity android:name=".Splash_Screen_Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.koddev.instagram.Login_Activity" />
-        <activity android:name="com.koddev.instagram.Register_Activity" />
-        <activity android:name="com.koddev.instagram.Main_Activity" />
-        <activity android:name="com.koddev.instagram.Post_Activity" />
+        <activity android:name=".Login_Activity" />
+        <activity android:name=".Register_Activity" />
+        <activity android:name=".Main_Activity" />
+        <activity android:name=".Post_Activity" />
         <activity
             android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
             android:theme="@style/Base.Theme.AppCompat" />
-        <activity android:name="com.koddev.instagram.Comments_Activity" />
-        <activity android:name="com.koddev.instagram.Options_Activity" />
-        <activity android:name="com.koddev.instagram.Edit_Profile_Activity" />
-        <activity android:name="com.koddev.instagram.Followers_Activity" />
-        <activity android:name="com.koddev.instagram.Story_Activity" />
-        <activity android:name="com.koddev.instagram.Add_Story_Activity"></activity>
+        <activity android:name=".Comments_Activity" />
+        <activity android:name=".Options_Activity" />
+        <activity android:name=".Edit_Profile_Activity" />
+        <activity android:name=".Followers_Activity" />
+        <activity android:name=".Story_Activity" />
+        <activity android:name=".Add_Story_Activity" />
     </application>
 
 </manifest>
