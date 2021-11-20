@@ -4,16 +4,27 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.21927083333333333" />
-        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_options.xml" value="0.21927083333333333" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_post.xml" value="0.22" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_register.xml" value="0.22" />
-        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
-        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_notification.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_start.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/activity_story.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/add_story_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/comment_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fotos_item.xml" value="0.25" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_notification.xml" value="0.33" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_post_detail.xml" value="0.25" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_profile.xml" value="0.21574074074074073" />
-        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/fragment_search.xml" value="0.25" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/notificaion_item.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/post_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/story_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/layout/user_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/menu/bottom_navigation.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/InstaApp/app/src/main/res/menu/post_menu.xml" value="0.38697916666666665" />
       </map>
     </option>
   </component>
